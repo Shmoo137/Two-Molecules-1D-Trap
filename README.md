@@ -10,10 +10,10 @@ The contained code allows to reproduce results and figures from both papers, nam
 - the time evolution of the system after the quench of any Hamiltonian parameter.
 
 The Hamiltonian parameters governing the molecular system are:
-- the isotropic, $g_0$, and anisotropic, $g_{\pm 1}$, parts of the intermolecular interaction,
-- the external electric field, $d \mathcal{E}$,
-- the external magnetic field, $\mu_{\text{B}} \mathcal{B}$,
-- the spin-rotation coupling, $\gamma$.
+- the isotropic and anisotropic parts of the intermolecular interaction,
+- the external electric field,
+- the external magnetic field,
+- the spin-rotation coupling.
 Other static physical parameters can be modified in `constants.h`.
 
 The arguments of the main() function control both the parameters of the system as the output of the program.
