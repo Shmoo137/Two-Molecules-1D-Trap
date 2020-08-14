@@ -1,5 +1,7 @@
 # Two Molecules in a 1D Trap
 
+[![DOI](https://zenodo.org/badge/287572046.svg)](https://zenodo.org/badge/latestdoi/287572046)
+
 This repository accompanies two research papers exploring the physics of two interacting molecules in a 1D trap:
 - A. Dawid, M. Lewenstein, M. Tomza. 2018. Two ultracold interacting molecules in a one-dimensional harmonic trap. [Phys. Rev. A 97, 063618](https://doi.org/10.1103/PhysRevA.97.063618)
 - A. Dawid, M. Tomza. 2020. Magnetic properties and quench dynamics of two interacting ultracold molecules.
