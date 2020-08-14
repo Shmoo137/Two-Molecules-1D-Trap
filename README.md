@@ -23,7 +23,7 @@ The structure of the program:
 - `matrix` contains the Matrix class,
 - `basis` includes functions to build the basis set depending on the input parameters and chosen quantum numbers,
 - `build_hamiltonian` builds the system's Hamiltonian in a created basis set as a Matrix object, depending on the input parameters, using functions from `ham_functions`,
-- `constants` contains the physical constants, the rotational constants of the molecules, their electric dipole moments, and maximum $n$ and $j$ used to build a basis set,
+- `constants` contains the physical constants, the rotational constants of the molecules, their electric dipole moments, and maximum *n* and *j* used to build a basis set,
 - `eigenproblem` includes the Intel Math Kernel library functions to solve a symmetric real matrix eigenproblem,
 - `looped_eigenproblem` allows to calculate a desired property as a function of any Hamiltonian parameter,
 - `parameters` contains extern variables, which are mostly declared via reading the main() function arguments,
