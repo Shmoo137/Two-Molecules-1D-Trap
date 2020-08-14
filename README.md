@@ -6,7 +6,7 @@ This repository accompanies two research papers exploring the physics of two int
 
 The contained code allows to reproduce results and figures from both papers, namely:
 - spectrum as a function of any Hamiltonian parameter,
-- magnetization and expected J^2 of the system,
+- magnetization and expected J<sup>2</sup> of the system,
 - the time evolution of the system after the quench of any Hamiltonian parameter.
 
 The Hamiltonian parameters governing the molecular system are:
